@@ -1,0 +1,14 @@
+[
+  {
+    "description": "创建的第一个Moco",
+    "request": {
+      "uri": "/demo"
+    },
+   "response": {
+     "headers": {
+       "Content-Type": "text/html;charset=gbk"
+     },
+     "text": "第一个Moco的框架"
+   }
+  }
+]
